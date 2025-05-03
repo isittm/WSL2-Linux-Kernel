@@ -74,6 +74,6 @@ file][install-inst] for information on using a custom built kernel.
 [about-wsl2]:   https://docs.microsoft.com/en-us/windows/wsl/about#what-is-wsl-2
 [wsl-issue]:    https://github.com/microsoft/WSL/issues/new/choose
 [normal-bug]:   https://www.kernel.org/doc/html/latest/admin-guide/bug-hunting.html#reporting-the-bug
-[security-bug]: https://www.kernel.org/doc/html/latest/admin-guide/security-bugs.html
+[security-bug]: https://www.kernel.org/doc/html/latest/process/security-bugs.html
 [submit-patch]: https://www.kernel.org/doc/html/latest/process/submitting-patches.html
 [install-inst]: https://docs.microsoft.com/en-us/windows/wsl/wsl-config#configure-global-options-with-wslconfig
